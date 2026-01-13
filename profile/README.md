@@ -15,11 +15,20 @@
   <tr>
     <td class="tg-0lax"><a href="https://github.com/9pay-labs/9pay-sdk-php">9pay-sdk-php</a>
     </td>
-    <td class="tg-0lax">PHP Client library for the CyberSource REST APIs</td>
+    <td class="tg-0lax">PHP Client library for the 9PAY REST APIs</td>
     <td class="tg-0lax"><a href="https://github.com/9pay-labs/9pay-sdk-php">9pay-sdk-php</a>
     </td>
     <td class="tg-0lax">Contains a sample application to showcase how to use PHP Client SDK</td>
   </tr>
+
+  <tr>
+    <td class="tg-0lax"><a href="https://github.com/9pay-labs/9pay-sdk-python">9pay-sdk-python</a>
+    </td>
+    <td class="tg-0lax">Python Client library for the 9PAY REST APIs</td>
+    <td class="tg-0lax"><a href="https://github.com/9pay-labs/9pay-sdk-python">9pay-sdk-python</a>
+    </td>
+    <td class="tg-0lax">Contains a sample application to showcase how to use Python Client SDK</td>
+  </tr>  
 </tbody>
 </table>
 
